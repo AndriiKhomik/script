@@ -7,3 +7,4 @@ do
 done
 
 echo After loop above counter is $COUNTER
+echo This is end of this script
